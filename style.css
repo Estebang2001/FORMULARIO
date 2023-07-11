@@ -1,0 +1,13 @@
+body {
+    background-color: wheat;
+}
+
+.formulario {
+    position: absolute;
+    text-align: center;
+    top: 25%;
+    bottom: 25%;
+    left: 25%;
+    right: 25%;
+    background-color: wheat;
+}
